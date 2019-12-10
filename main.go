@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
-	"github.com/chin/ciscorestapi/controllers"
+	"github.com/chinmoy21/ciscorestapi/controllers"
 )
 
 const port = ":8000"
