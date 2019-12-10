@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/labstack/echo"
-	"github.com/chin/ciscorestapi/fetch"
+	"github.com/chinmoy21/ciscorestapi/fetch"
 	"net/http"
 )
 
