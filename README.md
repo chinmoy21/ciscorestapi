@@ -12,8 +12,8 @@ Package execution:
 
     1) Download the zip from Github link.
     2) Install go package.
-    3) Run "go get github.com/chin/ciscorestapi
-    4) Move to "$GOPATH/github.com/chin/ciscorestapi"
+    3) Run "go get github.com/chinmoy21/ciscorestapi
+    4) Move to "$GOPATH/github.com/chinmoy21/ciscorestapi"
     5) Run "go build main.go"
     6) On the web browser, run "http://localhost:1200/"
 
